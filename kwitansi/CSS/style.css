@@ -1,0 +1,235 @@
+body {
+  background-image: url(bg.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: auto;
+  margin: auto;
+}
+.container {
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 80%;
+  margin: auto;
+  margin-top: 3%;
+  margin-bottom: 5%;
+  padding: 30px;
+  border: 1px solid;
+}
+.container table {
+  width: 100%;
+}
+
+.container table td {
+  vertical-align: top;
+}
+
+.tabel1 {
+  margin-bottom: 10px;
+}
+
+.tabel1 tr td {
+  margin: 0%;
+  padding: 0%;
+}
+
+.tabel1 tr td h1 {
+  font-family: "Verdana", sans-serif;
+  margin: 0%;
+  padding-top: 10px;
+  border: 5px double;
+  width: 80%;
+  height: 106px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.tabel1 tr td h2 {
+  font-family: "Verdana", sans-serif;
+  margin-top: -4%;
+  width: 60%;
+  margin-left: -20%;
+  font-size: 40px;
+  text-align: center;
+  border-bottom: 3px solid;
+}
+
+#h22 {
+  border: none;
+  padding: 0%;
+  margin-top: -16%;
+}
+
+.nom {
+  width: 10px;
+  padding: 0%;
+  margin: 0%;
+  height: 2px;
+  font-size: 20px;
+}
+
+.nom2 {
+  border-top: 1px solid;
+  font-size: 15px;
+  font-style: italic;
+}
+
+#num {
+  border: 1px solid;
+}
+
+.tabel2 {
+  border: 1px solid;
+  padding-bottom: 10px;
+}
+
+.nm {
+  width: 822px;
+  height: 20px;
+}
+
+.tabel2 tr td {
+  margin: 0%;
+  padding: 0%;
+}
+
+#tr1 {
+  width: 15%;
+}
+
+#tr2 {
+  width: 17%;
+}
+
+.txtb2 {
+  border-bottom: 1px dotted;
+}
+
+.tabel3 {
+  padding-top: 5px;
+  border-left: 1px solid;
+  border-right: 1px solid;
+}
+
+.tabel3 tr td {
+  margin: 0%;
+  padding: 0%;
+}
+
+.tabel4 {
+  border: 1px solid;
+}
+
+.tabel4 tr td {
+  margin: 0%;
+  padding: 0%;
+}
+
+.rp {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.tabel4 tr td h3 {
+  margin: 5px 5px;
+  padding-left: 10px;
+  font-size: 30px;
+}
+
+.jum {
+  width: 600px;
+  margin: 5%;
+}
+
+.rp {
+  height: 25px;
+  width: 450px;
+  margin-bottom: 20px;
+}
+
+.check {
+  font-size: 20px;
+  padding: 5px 10px;
+  height: 50px;
+  width: 230px;
+}
+
+#bank {
+  width: 10%;
+}
+
+.bank {
+  width: 525px;
+}
+
+.ttdf {
+  margin-bottom: 5%;
+  margin-left: 3%;
+  width: 165px;
+}
+
+.ttdg {
+  padding-top: 10%;
+}
+
+.tx1 {
+  text-align: center;
+  border-top: 1px solid;
+}
+
+.sub {
+  margin-top: 2%;
+  width: 80px;
+  height: 30px;
+  border: none;
+  border-radius: 10%;
+  background-color: #94471b;
+  color: white;
+  cursor: pointer;
+}
+.btn-tampil {
+  padding: 10px;
+  border: none;
+  border-radius: 10%;
+  background-color: #94471b;
+  cursor: pointer;
+}
+.btn-tampil {
+  color: white;
+}
+.res {
+  margin-top: 2%;
+  width: 80px;
+  height: 30px;
+  border: none;
+  background-color: white;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+.link {
+  margin-left: 44%;
+  margin-top: 20%;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  align-items: center;
+  text-align: center;
+  font-size: 16px;
+}
+
+.link :hover {
+  color: #b86a3d;
+  transition: 0.5s;
+}
+
+.scr {
+  margin-left: 15%;
+}
